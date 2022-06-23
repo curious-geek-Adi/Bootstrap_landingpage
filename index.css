@@ -50,7 +50,7 @@
 }
 
 .banner{
-    background: url("../images/surface.jpg") no-repeat 0 0;
+    background: url("./images/surface.jpg") no-repeat 0 0;
     background-size: cover;
     background-position: center;
 
@@ -87,7 +87,7 @@
 
 #testimonials{
   color:white;
-background: url("../images/mobile.jpg") no-repeat 0 0;
+background: url("./images/mobile.jpg") no-repeat 0 0;
 background-position: center;
 background-size: cover;
 padding: 50px 0;
